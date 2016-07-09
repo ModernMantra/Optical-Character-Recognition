@@ -20,4 +20,6 @@ Application consists of two view controllers:
   <p align="center">
     <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1373.jpg" width="250"/>
     <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1375.jpg" width="250"/>
+    <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1376.JPG" width="250"/>
+    <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1377.jpg" width="250"/>
   </p>
