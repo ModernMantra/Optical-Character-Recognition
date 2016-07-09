@@ -17,5 +17,6 @@ When each step (from those above) is finished, new image is shown. So for instan
 Application consists of two view controllers:
   - first view show steps in processings and as image picker controller (image can be picked from gallery or taken by camera directly from app)
   - second view is triggered when text is extracted and needs to be shown
-  
-![alt tag](https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1373.jpg)
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1373.jpg" width="350"/>
+  </p>
