@@ -11,6 +11,5 @@ Process of extraction consists of multiple complex steps
   - feature or blob extraction
   - feature classification and character recognition
   
-  The steps mentioned above has to be performed in the same order as stated. In the project, for converting color image into greyscale iti is used
-  'luma coding' approach, in binarisation process it is  used algorithm 'Adaptive Threshold by Integral Image'. Furthermore, feature extraction is implemented by 
-  following 'Two Pass' algorithm, and finally classification and recognition is done by 'neural network'.
+The steps mentioned above has to be performed in the same order as stated. In the project, for converting color image into greyscale iti is used'luma coding' approach, in binarisation process it is  used algorithm 'Adaptive Threshold by Integral Image'. Furthermore, feature extraction is implemented by 
+following 'Two Pass' algorithm, and finally classification and recognition is done by 'neural network'.
