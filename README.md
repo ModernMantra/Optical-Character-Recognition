@@ -18,8 +18,8 @@ Application consists of two view controllers:
   - first view show steps in processings and as image picker controller (image can be picked from gallery or taken by camera directly from app)
   - second view is triggered when text is extracted and needs to be shown
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1373.jpg" width="250"/>
-    <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1375.jpg" width="250"/>
-    <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1376.JPG" width="250"/>
-    <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1377.jpg" width="250"/>
+    <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1373.jpg" width="220"/>
+    <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1375.jpg" width="220"/>
+    <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1376.JPG" width="220"/>
+    <img src="https://raw.githubusercontent.com/ModernMantra/Optical-Character-Recognition/master/IMG_1377.jpg" width="220"/>
   </p>
